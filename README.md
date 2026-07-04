@@ -1,4 +1,4 @@
-# LQ WebP Converter
+# WebP Converter
 
 A lightweight Python utility that converts PNG and JPEG images into optimized WebP files for use on websites.
 
