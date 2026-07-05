@@ -25,7 +25,7 @@ LQ-WebP-Converter/
 ├── convert.py
 ├── README.md
 │
-├── assets/
+├── images/
 │   ├── hoodie_bw.png
 │   ├── shirt_wb.png
 │   ├── socks_w.png
